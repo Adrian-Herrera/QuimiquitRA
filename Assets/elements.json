@@ -1,0 +1,10 @@
+{
+  "Elementos": [
+      {"Nombre": "Hierro", "Simbolo": "Fe", "Valencia": [2,3], "cb": true},
+      {"Nombre": "Oxigeno", "Simbolo": "O", "Valencia": [-2], "cb": true},
+      {"Nombre": "Cobre", "Simbolo": "Cu", "Valencia": [1,2], "cb": true},
+      {"Nombre": "Oro", "Simbolo": "Au", "Valencia": [1,3], "cb": false},
+      {"Nombre": "Plata", "Simbolo": "Ag", "Valencia": [1], "cb": false},
+      {"Nombre": "Plomo", "Simbolo": "Pb", "Valencia": [2,3], "cb": false}
+    ]
+}

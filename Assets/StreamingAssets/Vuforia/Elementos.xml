@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Cobre" size="10.000000 14.280532" />
+    <ImageTarget name="Plomo" size="10.000000 14.280532" />
+    <ImageTarget name="Plata" size="10.000000 14.280532" />
+    <ImageTarget name="Oro" size="10.000000 14.280532" />
+    <ImageTarget name="Hierro" size="20.000000 28.561064" />
+    <ImageTarget name="Oxigeno" size="20.000000 28.561064" />
+  </Tracking>
+</QCARConfig>
